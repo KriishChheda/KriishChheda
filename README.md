@@ -50,10 +50,10 @@ I'm a **TY Computer Engineering student** at Dwarkadas Jivanlal Sanghvi College 
 * **AI Summarization Tool:** Developed a RAG-based AI system for document summarization and interactive Q&A.
 * **Game Dev:** Created **Angry Birds 2.0**, implementing custom physics-based mechanics.
 * **Internship:** Former **Web Developer Intern at OggnTech**, where I focused on building responsive UIs and implementing SEO optimization strategies.
-
+  
 ### 📊 GitHub Stats
-![Kriish's GitHub stats](https://github-readme-stats.vercel.app/api?username=KriishChheda&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KriishChheda&layout=compact&theme=radical)
+![Kriish's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KriishChheda&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KriishChheda&layout=compact&theme=radical)
 
 ### 🔥 GitHub Activity Graph
 ![Kriish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KriishChheda&theme=radical)
