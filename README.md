@@ -6,7 +6,7 @@ I'm a **TY Computer Engineering student** at Dwarkadas Jivanlal Sanghvi College 
 - 🚀 I have experience in **MERN Development**, **Deep Learning**, and **Database Management Systems (DBMS)**.
 - 🌱 I’m currently deep-diving into **Computer Vision**, **NLP**, and advanced **Machine Learning algorithms**.
 - 🔭 **Interests:** Machine Learning, Writing Technical Articles, and Traveling.
-- 📄 **Resume:** [Email Me](mailto:kriishchheda00522@email.com) | [View My Resume]([link-to-your-pdf-here](https://drive.google.com/file/d/1TAp6-7Oc7iDnFv7H43k3I8v6OXlPYutc/view?usp=sharing))
+- 📄 **Resume:** [Email Me](mailto:kriishchheda00522@email.com) | [View My Resume](https://drive.google.com/file/d/1TAp6-7Oc7iDnFv7H43k3I8v6OXlPYutc/view?usp=sharing)
 
 ---
 
